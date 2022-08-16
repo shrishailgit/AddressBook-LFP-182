@@ -15,7 +15,7 @@ public class AddressBook {
 		 arraylist = arrayRead;
 		 
 		 System.out.println("Choose Operation Which You Want");
-         System.out.println("1. Add t2. Edit.3.Delete");
+         System.out.println("1. Add 2. Edit.3.Delete");
 
          switch (scanner.nextInt()) 
 			{
